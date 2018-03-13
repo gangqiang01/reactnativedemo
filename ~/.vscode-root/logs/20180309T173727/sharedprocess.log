@@ -1,0 +1,67 @@
+[2018-03-09 17:37:28.248] [sharedprocess] [info] main {"machineId":"f65545dc98526afb1dfb0276a71234e1acde124ae7552c7c8612557bc711058f"}
+[2018-03-09 17:37:28.292] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:37:28.315] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:37:28.702] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:37:28.704] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:37:28.706] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:37:28.713] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:37:28.750] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:37:28.752] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:37:28.755] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:37:31.623] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:37:56.863] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:37:56.865] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:37:56.871] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:37:56.920] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:37:56.924] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:37:59.710] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:42:59.726] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:47:42.153] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:47:42.156] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:47:42.157] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:47:42.192] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:47:42.194] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:47:44.962] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:50:16.512] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:50:16.515] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:50:16.516] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:50:16.546] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:50:16.548] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:50:19.065] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:50:19.067] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:50:19.094] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:50:19.095] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:50:27.339] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:50:27.341] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:50:27.363] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:50:27.364] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:50:33.285] [sharedprocess] [info] Installing extension: vscode-react-native
+[2018-03-09 17:50:33.286] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-09 17:50:33.299] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:50:43.656] [sharedprocess] [info] Downloaded extension: vscode-react-native
+[2018-03-09 17:50:46.043] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/vsmobile.vscode-react-native-0.6.4: vsmobile.vscode-react-native-0.6.4
+[2018-03-09 17:50:46.135] [sharedprocess] [info] Updated metadata of the extension: vsmobile.vscode-react-native-0.6.4
+[2018-03-09 17:50:46.136] [sharedprocess] [info] Extensions installed successfully: vsmobile.vscode-react-native
+[2018-03-09 17:50:46.288] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-09 17:50:46.316] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:51:27.326] [sharedprocess] [info] Installing extension: react-native-react-redux
+[2018-03-09 17:51:29.141] [sharedprocess] [info] Downloaded extension: react-native-react-redux
+[2018-03-09 17:51:29.164] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/EQuimper.react-native-react-redux-1.6.0: EQuimper.react-native-react-redux-1.6.0
+[2018-03-09 17:51:29.204] [sharedprocess] [info] Updated metadata of the extension: EQuimper.react-native-react-redux-1.6.0
+[2018-03-09 17:51:29.204] [sharedprocess] [info] Extensions installed successfully: EQuimper.react-native-react-redux
+[2018-03-09 17:51:29.342] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-09 17:51:29.388] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:51:31.993] [sharedprocess] [info] Installing extension: es7-react-js-snippets
+[2018-03-09 17:51:34.620] [sharedprocess] [info] Downloaded extension: es7-react-js-snippets
+[2018-03-09 17:51:34.628] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/dsznajder.es7-react-js-snippets-1.3.3: dsznajder.es7-react-js-snippets-1.3.3
+[2018-03-09 17:51:34.665] [sharedprocess] [info] Updated metadata of the extension: dsznajder.es7-react-js-snippets-1.3.3
+[2018-03-09 17:51:34.665] [sharedprocess] [info] Extensions installed successfully: dsznajder.es7-react-js-snippets
+[2018-03-09 17:51:34.805] [sharedprocess] [info] Scanned user extensions: 3
+[2018-03-09 17:51:34.830] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-09 17:51:38.907] [sharedprocess] [info] Installing extension: react-native-snippet
+[2018-03-09 17:51:42.960] [sharedprocess] [info] Downloaded extension: react-native-snippet
+[2018-03-09 17:51:42.982] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/jundat95.react-native-snippet-0.4.2: jundat95.react-native-snippet-0.4.2
+[2018-03-09 17:51:43.019] [sharedprocess] [info] Updated metadata of the extension: jundat95.react-native-snippet-0.4.2
+[2018-03-09 17:51:43.019] [sharedprocess] [info] Extensions installed successfully: jundat95.react-native-snippet
+[2018-03-09 17:51:43.152] [sharedprocess] [info] Scanned user extensions: 4
+[2018-03-09 17:51:43.185] [sharedprocess] [info] Scanned system extensions: 65

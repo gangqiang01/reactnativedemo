@@ -28,7 +28,7 @@ class Profile extends Component{
     return(
     <View style={styles.container}>
       <Text style={styles.welcome}>
-        Profile
+        {this.props.net}
       </Text>
     </View>
     )
@@ -47,9 +47,21 @@ class Home extends Component{
 }
 export default class App extends Component{
  state= {
-    selectedTab: 'home'
+    selectedTab: 'home',
+    wsname: 'net'
   };
+  componentDidMount(){
+    var ws = new WebSocket("ws://172.21.73.144:8181");
+    ws.onopen = () => {
+      console.log("connect")
+    };
 
+    ws.onmessage = (e)=>{
+      console.log("enter")
+      this.setState({wsname: e.data})
+    }
+
+  };
   render() {
     return (
       <TabNavigator style={styles.container}>
@@ -70,7 +82,7 @@ export default class App extends Component{
           renderIcon={() => <Icon name="user" size={px2dp(22)} color="#666"/>}
           renderSelectedIcon={() => <Icon name="user" size={px2dp(22)} color="#3496f0"/>}
           onPress={() => this.setState({selectedTab: 'profile'})}>
-          <Profile/>
+          <Profile net={this.state.wsname}/>
         </TabNavigator.Item>
       </TabNavigator>
     );
